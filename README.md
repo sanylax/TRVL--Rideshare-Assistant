@@ -7,9 +7,9 @@ More info about Api.ai webhooks could be found here:
 [API.AI Webhook](https://docs.api.ai/docs/webhook)
 
 Developers:
-Santosh Lakshman
-Neel Raja
-Jay Kudva
+Santosh Lakshman,
+Neel Raja,
+Jay Kudva,
 Manav Korlipara
 
 # Deploy to:
